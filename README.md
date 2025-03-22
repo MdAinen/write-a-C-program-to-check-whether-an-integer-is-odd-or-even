@@ -1,0 +1,1 @@
+# write-a-C-program-to-check-whether-an-integer-is-odd-or-even
